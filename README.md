@@ -17,8 +17,11 @@ Fitness centers provide various fitness facilities like equipment gymnasiums, cl
 To create a fitness center management application where fitness centers can maintain information pertaining to memberships and schedules for classes, trainers, and amenities.
  
 The objectives of the Fitness Center Management are to provide better customer service by maintaining:
+
 •   	membership details of each member
+
 •   	details of employees and equipment
+
 •   	details of trainers and classes
  
 
