@@ -29,5 +29,7 @@ This project will be implemented in 3 sprints. Each sprint description and user 
 
 #### PROJECT ENVIRONMENT
  
-The project environment for the Fitness Center Management database will be phpMyAdmin (https://www.phpmyadmin.net/) using the Cloud9 development workspace in the cloud. The phpMyadmin will provide the interface for MySQL database management system through which data storage, retrieval and operations can be performed. Cloud9 is the best option as all team members already have an account and have the knowledge in how to perform operations in this application.
+The project environment for the Fitness Center Management database will be phpMyAdmin (https://www.phpmyadmin.net/) using the Cloud9 development workspace in the cloud. 
+The phpMyadmin will provide the interface for MySQL database management system through which data storage, retrieval and operations can be performed. 
+Cloud9 is the best option as all team members already have an account and have the knowledge in how to perform operations in this application.
 
